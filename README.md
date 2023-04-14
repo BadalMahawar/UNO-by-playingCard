@@ -6,7 +6,8 @@ This is a UNO card game that supports up to 4 players and different types of car
 
 To install the game, simply clone the repository and run the `index.js` file:
 
-```git clone https://github.com/BadalMahawar/UNO-by-playingCard.git
+```
+git clone https://github.com/BadalMahawar/UNO-by-playingCard.git
 cd UNO-by-playingCard
 node index.js
 ```
